@@ -23,7 +23,7 @@ El objetivo de este proyecto para la empresa **ABC Corporation** es analizar su 
 
 * 📓 hr_project.ipynb - Jupyter Notebook del análisis de los datos
 * 📄 hr_raw_data.csv - Datos proporcionados en bruto
-* 📊 df_hr_processed.csv - Datos procesados
+* 📊 df_hr_final.csv - Datos procesados
 * 📑 informe_retencion.pdf - Informe final
 * 📜 README.md - Este fichero
 
