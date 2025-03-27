@@ -2,7 +2,8 @@
 
 ITera > *PEOPLE DATA SPECIALIST*
 
-![Logo](/Users/carla/Downloads/LogoITera.png)
+![Logo](README.md)
+
 
 ## 📌 OBJETIVO
 
@@ -10,13 +11,15 @@ El objetivo de este proyecto para la empresa **ABC Corporation** es analizar su 
 
 ---
 
+
 ## 🎥 PRESENTACIÓN
 
 🔗 https://view.genially.com/67dc6ca9dc0bca3e7f278f79/presentation-itera
 
 ---
 
-## 📂 ESTRUCTURA DEL REPOSITORIO
+
+## 📂 ESTRUCTURA DEL REPOSITORIO
 
 * 📓 hr_project.ipynb - Jupyter Notebook del análisis de los datos
 * 📄 hr_raw_data.csv - Datos proporcionados en bruto
@@ -26,7 +29,8 @@ El objetivo de este proyecto para la empresa **ABC Corporation** es analizar su 
 
 ---
 
-## 🔄 FLUJO DE TRABAJO
+
+## 🔄 FLUJO DE TRABAJO
 
 1️⃣ Exploración de la Información Proporcionada 📊
 
@@ -52,7 +56,8 @@ El objetivo de este proyecto para la empresa **ABC Corporation** es analizar su 
 
 ---
 
-## 🛠️ HERRAMIENTAS
+
+## 🛠️ HERRAMIENTAS
 
 * 🖥️ Visual Studio Code + Python 3.9+
 * 📦 Librerías de Python: Pandas, NumPy, Matplotlib, Seaborn, Sklearn
@@ -61,12 +66,14 @@ El objetivo de este proyecto para la empresa **ABC Corporation** es analizar su 
 
 ---
 
-## 👩‍💻 AUTORAS - ITera:
+
+## 👩‍💻 AUTORAS - ITera:
 
 * 👩‍💼 Carla Vera
 * 👩‍💼 Jana Raga
 * 👩‍💼 Elisa García
 * 👩‍💼 Cristina Fernández
+
 
 
 **📌 Proyecto desarrollado con compromiso y empleo del análisis de datos para mejorar la retención de talento en ABC Corporation. 🚀**
