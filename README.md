@@ -2,7 +2,7 @@
 
 ITera > *PEOPLE DATA SPECIALIST*
 
-![Logo](README.md)
+![Logo](images/LogoITera.png)
 
 
 ## 📌 OBJETIVO
